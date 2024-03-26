@@ -16,7 +16,8 @@ Com tudo instalado em sua máquina, na pasta raiz do projeto, deve-se executar o
 Se tudo estiver funcionando corretamente, a mensagem "O Servidor está rodando no endereço:  http://localhost:4000/" deverá ser exibida no terminal.
 
 Para testar a API GraphQL: 
-    Após iniciar o servidor, você pode acessar a interface do GraphQL(Apollo Sandbox) em seu navegador, normalmente em http://localhost:4000/. Aqui você pode testar as consultas e mutações definidas em seu esquema GraphQL.
+    Acessar a interface do GraphQL(Apollo Sandbox) em seu navegador. 
+    Testar as consultas e mutações definidas no esquema GraphQL.
 
 Feita a importação, basta utilizar os comandos POST, GET, DELETE e PUT, lembrando que o servidor da aplicação deve estar ativo.
 

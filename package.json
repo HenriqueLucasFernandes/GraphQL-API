@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "apollo-server": "^3.13.0",
+    "graphql": "^16.8.1"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "graphql-api",
+  "version": "1.0.0",
+  "main": "server.js",
+  "devDependencies": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
